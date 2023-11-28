@@ -1,0 +1,6 @@
+test: C:\\Users\\NableIT02\\Desktop\\VDS\\Dataset\\test\\images 
+train: C:\\Users\\NableIT02\\Desktop\\VDS\\Dataset\\train\\images 
+val: C:\\Users\\NableIT02\\Desktop\\VDS\\Dataset\\val\\images
+
+nc: 1
+names: [license_plate]
